@@ -1,0 +1,6 @@
+{
+  "name": "TalentMatch AI - Smart Recruitment & RAG Screening",
+  "description": "AI-powered recruitment web application with automated resume parsing, ML job description matching, RAG company policy retrieval, candidate suitability explanations, and recruiter decision tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
